@@ -30,6 +30,10 @@ html footer i:hover {
   background-color: #ACA7F7;
 }
 
+.bg-cupboard {
+  background-color: #81B2D4;
+}
+
 /* for icons, it's also in HTML head so this may not be necesarry */
 /*!
  * Bootstrap  v5.3.0 (https://getbootstrap.com/)
